@@ -1,0 +1,13 @@
+{
+  "homepage": "https://github.com/GoldenLoongAS/PuDragon",
+  "promos": {
+    "1.21.1-latest": "0.0.1-a-t",
+    "1.21.1-recommended": "0.0.1-a-t"
+  },
+  "1.21.1": {
+    "1.0.0": {
+      "updateMsg": "None",
+      "downloadUrl": "https://github.com/GoldenLoongAS/PuDragon/releases/download/v0.0.1/Pu_Dragon-neoforge-1.21.1-v0.0.0-a-t.jar"
+    }
+  }
+}
