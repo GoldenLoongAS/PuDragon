@@ -1,18 +1,16 @@
 # Pu Dragon - A Plutonium Dragon Species for Dragon Survival
 
-- Pu Dragon by GoldenLoongAS for Dragon Survival mod
+*Pu Dragon by GoldenLoongAS for Dragon Survival mod*
 
 <div align="center">
 [中文版](https://github.com/GoldenLoongAS/PuDragon/README_zh_CN.md)
 </div>
 
-Unleash the power of nuclear energy!
-
-Pu Dragon introduces the Plutonium Dragon – a new, fully-fledged dragon species for the Dragon Survival mod. Forged deep within uranium-rich veins, this radioactive dragon radiates deadly green energy and brings an entirely unique nuclear-themed playstyle.
+Unleash the power of nuclear energy! Pu Dragon introduces the Plutonium Dragon – a new, fully-fledged dragon species for the Dragon Survival mod. Forged deep within uranium-rich veins, this radioactive dragon radiates deadly green energy and brings an entirely unique nuclear-themed playstyle.
 
 ---
 
-## 🔥 Core Features
+## Core Features
 
 - **Living Nuclear Reactor** – Naturally immune to radiation, the Plutonium Dragon thrives in environments that would be lethal to others. Its presence alters the world around it, making radioactive blocks and items hazardous to non-plutonium creatures.
 - **Complete Growth System** – Evolve from a glowing Newborn to a towering Ancient dragon, with each stage unlocking new abilities, visual changes, and stat bonuses.
@@ -24,7 +22,7 @@ Pu Dragon introduces the Plutonium Dragon – a new, fully-fledged dragon specie
 
 ---
 
-## 📦 Dependencies
+## Dependencies
 
 - **Required**: Dragon Survival (≥2.0.53)
 - **Required**: GeckoLib (≥4.6)
@@ -32,13 +30,13 @@ Pu Dragon introduces the Plutonium Dragon – a new, fully-fledged dragon specie
 
 ---
 
-## ⚠️ Note
+## Note
 
 At present, it is mainly a public beta version. While feature-rich, some minor optimizations and bugs may remain. Please report issues on our [GitHub Issues](https://github.com/GoldenLoongAS/PuDragon/issues) page.
 
 ---
 
-## FAQ
+## Some questions
 
 ### How to download this module?
 
