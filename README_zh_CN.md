@@ -1,18 +1,14 @@
 # Pu Dragon - 为 Dragon Survival 模组添加的钚龙物种
 
-- Pu Dragon 由 GoldenLoongAS 为 Dragon Survival 模组制作
+*Pu Dragon 由 GoldenLoongAS 为 Dragon Survival 模组制作*
 
-<div align="center">
-[中文版](https://github.com/GoldenLoongAS/PuDragon/README_zh_CN.md)
-</div>
+[English document](https://github.com/GoldenLoongAS/PuDragon/blob/main/README.md)
 
-释放核能的力量！
-
-Pu Dragon 引入了钚龙（Plutonium Dragon）—— 一种为 Dragon Survival 模组打造的、全新的、完整的龙种。它在富含铀矿的矿脉深处诞生，这种放射性巨龙散发着致命的绿色能量，带来独一无二的核能主题玩法。
+释放核能的力量！Pu Dragon 引入了钚龙（Plutonium Dragon）—— 一种为 Dragon Survival 模组打造的、全新的、完整的龙种。它在富含铀矿的矿脉深处诞生，这种放射性巨龙散发着致命的绿色能量，带来独一无二的核能主题玩法。
 
 ---
 
-## 🔥 核心特性
+## 核心特性
 
 - **活体核反应堆** – 自然免疫辐射，钚龙能够在其他生物无法生存的环境中茁壮成长。它的存在会改变周围世界，使放射性方块和物品对其他非钚生物产生危害。
 - **完整成长系统** – 从发光的幼龙逐步进化为巍峨的古龙，每个阶段都会解锁新能力、视觉变化和属性加成。
@@ -24,7 +20,7 @@ Pu Dragon 引入了钚龙（Plutonium Dragon）—— 一种为 Dragon Survival 
 
 ---
 
-## 📦 依赖项
+## 依赖项
 
 - **必需**：Dragon Survival (≥2.0.53)
 - **必需**：GeckoLib (≥4.6)
@@ -32,13 +28,13 @@ Pu Dragon 引入了钚龙（Plutonium Dragon）—— 一种为 Dragon Survival 
 
 ---
 
-## ⚠️ 注意事项
+## 注意事项
 
 目前，该模组主要为公开测试版。尽管功能丰富，但仍可能存在一些细微的优化问题和缺陷。请在我们的 [GitHub Issues](https://github.com/GoldenLoongAS/PuDragon/issues) 页面报告问题。
 
 ---
 
-## 常见问题
+## 一些问题
 
 ### 如何下载此模组？
 
