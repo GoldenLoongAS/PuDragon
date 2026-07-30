@@ -1,13 +1,13 @@
 {
   "homepage": "https://github.com/GoldenLoongAS/PuDragon",
   "promos": {
-    "1.21.1-latest": "0.0.1",
-    "1.21.1-recommended": "0.0.1"
+    "1.21.1-latest": "0.0.2",
+    "1.21.1-recommended": "0.0.2"
   },
   "1.21.1": {
-    "0.0.1": {
-      "updateMsg": "首个正式版发布",
-      "downloadUrl": "https://github.com/GoldenLoongAS/PuDragon/releases/download/v0.0.1/Pu_Dragon-neoforge-1.21.1-v0.0.1.jar"
+    "0.0.2": {
+      "updateMsg": "0.0.2:解决了一些问题，具体详情请查看版本更新日志。",
+      "downloadUrl": "https://github.com/GoldenLoongAS/PuDragon/releases/download/1.21.1-0.0.2/Pu_Dragon-1.21.1-v0.0.2-29.07.2026.jar"
     }
   }
 }
