@@ -1,13 +1,13 @@
 {
   "homepage": "https://github.com/GoldenLoongAS/PuDragon",
   "promos": {
-    "1.21.1-latest": "0.0.6",
-    "1.21.1-recommended": "0.0.6"
+    "1.21.1-latest": "0.0.7",
+    "1.21.1-recommended": "0.0.7"
   },
   "1.21.1": {
-    "0.0.6": {
-      "updateMsg": "0.0.6:解决了一些问题，具体详情请查看版本更新日志。",
-      "downloadUrl": "https://github.com/GoldenLoongAS/PuDragon/releases/download/1.21.1-0.0.6/Pu_Dragon-1.21.1-v0.0.6-27.08.2026.jar"
+    "0.0.7": {
+      "updateMsg": "0.0.7:解决了一些问题，具体详情请查看版本更新日志。",
+      "downloadUrl": "https://github.com/GoldenLoongAS/PuDragon/releases/download/1.21.1-0.0.7/Pu_Dragon-1.21.1-v0.0.7-31.08.2026.jar"
     }
   }
 }
